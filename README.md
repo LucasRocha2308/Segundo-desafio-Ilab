@@ -5,8 +5,8 @@
 ### SQS sender
 https://github.com/LucasRocha2308/Desafio-semana-2-SQS-sender/tree/main
 
-### SQS consomer
-https://github.com/LucasRocha2308/Desafio-semana-2-SQS-consomer/tree/main
+### SQS consumer
+https://github.com/LucasRocha2308/Desafio-semana-2-SQS-consumer/tree/main
 
 ## Resolução da segunda parte
 
